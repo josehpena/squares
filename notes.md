@@ -14,4 +14,6 @@ Examples
 # Pomodoro 1 - 25 min
 # Should return false when the number -1 is passed in the parameter. OK
 
-# Should return true when the number 4 is passed in the parameter. Working on
+# Should return true when the number 4 is passed in the parameter. OK
+
+# Should return true when the number 25 is passed in the parameter. Working on
