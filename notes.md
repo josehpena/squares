@@ -17,3 +17,8 @@ Examples
 # Should return true when the number 4 is passed in the parameter. OK
 
 # Should return true when the number 25 is passed in the parameter. OK
+
+## Just to check up ##
+# Should return false when the number 26 is passed in the parameter. Working on
+
+# Should return true when 0 is passed in the parameter. Working On
